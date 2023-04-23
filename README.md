@@ -19,4 +19,4 @@ Se for fazer root : Faça o procedimento de corrigir o boot.img pelo magisk ,dep
 
 se for desbloquear o bootloader : Ative as configurações de desenvolvedor ,ative o desbloqueio "OEM" e a depuração usb.
 
-@BDSTECNOSYSTEM
+# @BDSTECNOSYSTEM
