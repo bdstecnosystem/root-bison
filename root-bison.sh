@@ -73,7 +73,7 @@ if fastboot devices | grep -q "fastboot"; then
 else
     echo "Nenhum dispositivo Fastboot conectado"
 fi
-#       fastboot flashing unlock
+    fastboot flashing unlock
        echo "presione volume para cima para confirmar o desbloqueio"
       sleep 10
      fastboot reboot
